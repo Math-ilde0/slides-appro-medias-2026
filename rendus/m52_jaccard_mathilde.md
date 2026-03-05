@@ -4,8 +4,6 @@
 
 ## Mon sujet d'étude est Approfondissement des tests utilisateurs UX
 
-**_Décrire le sujet_**
-
 Le sujet consiste à approfondir ma connaissance des tests utilisateurs dans un UX Lab, une méthode utilisée en design d’expérience utilisateur pour observer et analyser comment de vrais utilisateurs interagissent avec une interface ou un produit. Un UX Lab est un environnement prévu à la conduite de ces évaluations, permettant de recueillir des données qualitatives et quantitatives, sur l’utilisation d’un prototype ou d’une interface. Afin de tirer des enseignements pour améliorer l’expérience utilisateur.
 
 ### Contexte
@@ -130,12 +128,15 @@ L’idée est d’éviter des conclusions trop vagues comme “l’interface est
 
 Mon expérimentation a pris la forme d’une analyse de ressources et de cas concrets.
 
-J’ai lu deux articles sur Medium qui expliquaient dans quelles situations un UX Lab devient vraiment utile dans une organisation et ce que cela change concrètement dans la manière de travailler. Les articles parlaient notamment des coûts, de la vitesse à laquelle les équipes peuvent prendre des décisions, de la manière de standardiser les méthodes de recherche et de la confiance que les équipes accordent aux résultats des tests.Ce que j’ai surtout retenu, c’est qu’un UX Lab n’est pas simplement une pièce avec des caméras ou des outils pour observer des utilisateurs. C’est plutôt une organisation de la recherche utilisateur, mise en place pour pouvoir faire des tests régulièrement et de manière structurée.
+J’ai lu deux articles sur Medium qui expliquaient dans quelles situations un UX Lab devient vraiment utile dans une organisation et ce que cela change concrètement dans la manière de travailler. L’un des articles, *“When to build a UX lab (and when not to): A pragmatic guide grounded in scale, cost, and reality”* , explique dans quels contextes il est pertinent de mettre en place un UX Lab et dans quels cas cela n’est pas nécessaire.
 
+Les articles parlaient notamment des coûts, de la vitesse à laquelle les équipes peuvent prendre des décisions, de la manière de standardiser les méthodes de recherche et de la confiance que les équipes accordent aux résultats des tests.
+
+Ce que j’ai surtout retenu, c’est qu’un UX Lab n’est pas simplement une pièce avec des caméras ou des outils pour observer des utilisateurs. C’est plutôt une organisation de la recherche utilisateur, mise en place pour pouvoir faire des tests régulièrement et de manière structurée.
 Les articles expliquaient aussi que ce type de dispositif devient vraiment pertinent quand plusieurs équipes ont besoin de faire des tests utilisateurs de façon fréquente. À partir de ce moment-là, les tests ponctuels ou les approches un peu improvisées deviennent plus difficiles à gérer. Un lab permet alors de centraliser les méthodes, de gagner du temps et d’avoir des résultats plus comparables entre différents projets.
 
 
-J’ai aussi utilisé un article du Nielsen Norman Group qui explique quand utiliser les différentes méthodes de recherche en UX. L’article propose une manière assez claire de situer les méthodes selon plusieurs dimensions, par exemple la différence entre qualitatif et quantitatif, entre ce que les utilisateurs disent (attitudinal) et ce qu’ils font réellement (comportemental), ainsi que le contexte dans lequel le produit est utilisé. Cela m’a aidée à mieux comprendre à quoi servent réellement les différentes méthodes. Au lieu de voir les techniques UX comme une liste d’outils, on comprend mieux dans quelle situation chacune est pertinente.
+J’ai aussi utilisé l'article du Nielsen Norman Group, *"When to Use Which User-Experience Research Methods"*, qui explique quand utiliser les différentes méthodes de recherche en UX. L’article propose une manière assez claire de situer les méthodes selon plusieurs dimensions, par exemple la différence entre qualitatif et quantitatif, entre ce que les utilisateurs disent (attitudinal) et ce qu’ils font réellement (comportemental), ainsi que le contexte dans lequel le produit est utilisé. Cela m’a aidée à mieux comprendre à quoi servent réellement les différentes méthodes. Au lieu de voir les techniques UX comme une liste d’outils, on comprend mieux dans quelle situation chacune est pertinente.
 
 Ce qui m’a surtout marquée, c’est l’idée que le choix d’une méthode ne se fait pas au hasard. Il dépend toujours de la question que l’on cherche à résoudre dans un projet. Par exemple, certaines méthodes permettent plutôt de comprendre pourquoi un problème apparaît, alors que d’autres servent davantage à mesurer l’importance d’un problème ou l’efficacité d’une interface. Cela m’a permis de voir plus clairement comment les différentes méthodes UX peuvent se compléter dans un projet de conception.
 
